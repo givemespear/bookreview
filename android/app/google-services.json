@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624964628540",
+    "project_id": "bookreview-app-dev",
+    "storage_bucket": "bookreview-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624964628540:android:a9406ae3ea4ec2bc5f5339",
+        "android_client_info": {
+          "package_name": "com.givemespear.bookreview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXqQThb705rTyfo4bXVjEDUg-3DNVnixo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
